@@ -1,0 +1,5 @@
+defaultProject: project-26e7f30f-719e-4625-860
+defaultDataset: bronze
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.37
+defaultLocation: US
